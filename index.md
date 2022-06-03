@@ -1,37 +1,129 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste</title>
+<link rel="stylesheets" href="index2.css"> 
 
-You can use the [editor on GitHub](https://github.com/Zangadow667/Comandos_aleatorios/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</head>
+<body>
+<script src="index3.js"></script>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<header>
+  <video controls
+  src="WhatsApp Video 2022-03-18 at 15.15.41 (1).mp4"
+  poster="Euler.png"
+  >
+  </video>
 
-### Markdown
+</header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<div contenteditable="true">
+<p contenteditable="False" spellcheck="false">Você não pode me editar, porém pode me apagar.</p>
+<p contenteditable="true" spellcheck="true">Você pode me editar.</p>
+</div>
 
-### Jekyll Themes
+<a href="A Unica Coisa - o Foco Pode Tra - Gary Keller.pdf" download="download">Donwload</a>
+ <br><br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zangadow667/Comandos_aleatorios/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<input type="file" accept=".png ,  .jpg">
 
-### Support or Contact
+<br><br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="https://www.instagram.com/digo_125/" accesskey="i">Instagram Rodrigo</a>
+<br><br>
+
+<div id="sua mãe">
+
+<label for="Sabor-cobertura">Selecione um sabor de cobertura</label>
+<input
+  list="sabores"
+  id="Sabor-cobertura"
+  name="Sabor-cobertura"
+  placeholder="Selecione o sabor"
+>
+
+<datalist id="sabores">
+  <option value="">Morango</option>
+  <option value="Chocolate">Chocolate</option>
+  <option value="Baunilha">Baunilha</option>
+  <option value="Flocos">Flocos</option>
+  <option value="Mel">Mel</option>
+  <option value="Gengibre">Gengibre</option>
+</datalist>
+
+
+
+</div>
+
+
+
+
+
+
+
+<div class="box">
+
+ <p>Plutão<del>sempre foi</del><ins>não é</ins>um planeta.</p>
+
+<p> A <abbr title="Organização das Nações Unidas">ONU</abbr> é massa!!</p>
+
+<details>
+<summary>Mestre Oogway</summary>
+O maior mestre da china dentro da realidade do filme Kung Fu Panda
+</details>
+
+<details>
+  <summary>Bruce Lee</summary>
+Um grande ator e artista marcial
+</details>
+
+<blockquote>
+  O passado é historia, o futuro é misterio e o hoje é uma dádiva, por isso se chama presente - Mestre Oogway
+  <br>
+  Não temo aquele que treinou mil chutes, temo aquele  que treinou mil vezes o mesmo chute - Bruce Lee
+</blockquote>
+
+<input type="number" max="100" value="">
+<button type="submit">Enviar</button>
+Recebendo resposta<progress max="100" value=""></progress>
+Nivel de Cu doce <meter min="0" max="100" low="30" high="60" optimum="70" value=""></meter>
+
+
+</div>
+
+
+<div class="buttons">
+   <p>Plutão<del>sempre foi</del><ins>não é</ins>um planeta.</p>
+    <button class="teste 1">botão </button>
+    <button class="upa upa">upa upa</button>
+    <button class="close">Close</button>
+    <button class="open">open</button>
+    <button class="que">que</button>
+    <button class="pao">pao</button>
+    <button class="botão ">botão 7</button>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+</body>
+</html>
